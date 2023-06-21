@@ -1,2 +1,5 @@
 # thiscovery-terms-and-conditions
-Ts &amp; Cs for the use of the thiscovery platform
+
+Storage repository for thiscovery terms and conditions markdown files, with version history:
+
+- May 2023 - This Labs updates to personal_information.md, terms_of_use.md
