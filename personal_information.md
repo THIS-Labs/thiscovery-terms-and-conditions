@@ -5,7 +5,7 @@ THIS Labs is committed to protecting your personal data, which is also referred 
 
 Please read this policy carefully to understand how we collect, use, store and otherwise process your personal data. If you do not agree with the data practices described in this privacy policy, you should not use thiscovery.org. 
 
-If you have any questions about this policy or our treatment of the information you provide us, please email hello@thislabs.org. 
+If you have any questions about this policy or our treatment of the information you provide us, please email [hello@thislabs.org](mailto:hello@thislabs.org). 
 
 Personal information 
 --------------------
@@ -18,11 +18,11 @@ Personal information also includes navigational information where such informati
 
 When you visit our website we use third-party services, including Google Analytics and SendGrid, to collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. 
 
-For information about how Google Analytics uses your personal information, please see http://www.google.com/intl/en/policies/privacy/ and https://support.google.com/analytics/answer/6004245. 
+For information about how Google Analytics uses your personal information, please see [http://www.google.com/intl/en/policies/privacy/ and https://support.google.com/analytics/answer/6004245](http://www.google.com/intl/en/policies/privacy/ and https://support.google.com/analytics/answer/6004245). 
 
-For information about how SendGrid handles your personal information, please see https://www.twilio.com/legal/privacy#sendgrid-services. 
+For information about how SendGrid handles your personal information, please see [https://www.twilio.com/legal/privacy#sendgrid-services](https://www.twilio.com/legal/privacy#sendgrid-services). 
 
-We also use a third-party service for scheduling live interviews, named Acuity. Acuity is a SquareSpace company. For information about how Acuity uses your personal information, please see https://www.squarespace.com/privacy.​ 
+We also use a third-party service for scheduling live interviews, named Acuity. Acuity is a SquareSpace company. For information about how Acuity uses your personal information, please see [https://www.squarespace.com/privacy.](https://www.squarespace.com/privacy)​ 
 
 When you visit www.thiscovery.org and participate in Thiscovery projects, we use a third-party service, Qualtrics to gather answers to survey questions or to collect uploaded files such as photos. We collect your IP address as part of this process. For more information about how Qualtrics uses your personal information, please see Qualtrics Data Protection and Privacy. 
 
@@ -73,13 +73,13 @@ Although we use appropriate security measures once we have received your persona
 How to access your information or change your account preferences 
 ----------------------------------------------------------------
 
-The accuracy of your information is important to us. If you think any information we have about you is incorrect, outdated or incomplete, you can login to your Thiscovery account at any time to update your personal information. If you do not have a Thiscovery account or you are unsure how to update your personal information, please contact us via hello@thislabs.org. 
+The accuracy of your information is important to us. If you think any information we have about you is incorrect, outdated or incomplete, you can login to your Thiscovery account at any time to update your personal information. If you do not have a Thiscovery account or you are unsure how to update your personal information, please contact us via [hello@thislabs.org](mailto:hello@thislabs.org). 
 
 You can update your preferences or unsubscribe from THIS Labs and Thiscovery marketing communications at any time by: 
 
 - logging in to your Thiscovery account 
 - clicking on ‘manage your subscription preferences’ or the ‘unsubscribe’ link at the bottom of marketing emails 
-- or by emailing us at hello@thislabs.org 
+- or by emailing us at [hello@thislabs.org](mailto:hello@thislabs.org) 
 
 You also have the right to ask to access your personal information, and to ask us to delete your personal information, or otherwise restrict our processing, or to object to processing (including the receipt of direct marketing) or to receive an electronic copy of the personal information you provided to us. 
 
