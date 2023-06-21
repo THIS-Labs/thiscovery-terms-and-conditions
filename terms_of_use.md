@@ -6,7 +6,7 @@ These terms tell you the rules for using our website (our site).
 
 Thiscovery.org is a site operated by THIS Labs. Our principal office is Trumpington Mews, 40B High Street, Trumpington, Cambridge, CB2 9LS. 
 
-To contact us, please email hello@thislabs.org. 
+To contact us, please email [hello@thislabs.org](mailto:hello@thislabs.org). 
 
 ### By using our site you accept these terms 
 
